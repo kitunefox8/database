@@ -70,7 +70,6 @@ Things you may want to cover:
 - belongs_to :time
 
 
-
 ## groupsテーブル
 |Column|Type|Options|
 |------|----|-------|
