@@ -24,6 +24,7 @@ Things you may want to cover:
 * ...
 
 
+
 # chatspace DB設計
 ## usersテーブル
 |Column|Type|Options|
@@ -68,7 +69,6 @@ Things you may want to cover:
 ### Association
 - belongs_to :coment
 - belongs_to :time
-
 
 
 ## groupsテーブル
